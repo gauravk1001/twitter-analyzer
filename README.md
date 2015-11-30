@@ -1,4 +1,6 @@
-Steps to setup and run the Real-time Tweets Analyzer
+#Real time analyis of Twitter feed based on Twitter Streaming API (Python (nltk, tweepy, webbrowser, MySQLdb))
+
+Steps to setup and run the Real-time Tweets Analyzer (built in 2014)
 
 1)Download and install Python 2.7. Add the path of the installation directory to the Path variable in Environment Variables under Control Panel > System > Advanced System Settings
 
