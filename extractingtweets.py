@@ -4,10 +4,10 @@ from tweepy.streaming import StreamListener
 import time
 import os
 
-ckey='C9afrqfHZprKGmg3gNdUg'
-csecret='SFHb24Uin1b1bGd3Qc7OwLT44c22jpTTWmdlWsBAI'
-atoken='2358376346-n2Z2vDLxyD1nyltUMkQ8qM87IaTdcFWmKnDIiFr'
-asecret='GLRGzdxmELUbY7VWueXTPzLdnxxtGqPDX4QwaOfyaRSSF'
+ckey=''
+csecret=''
+atoken=''
+asecret=''
 
 
 
